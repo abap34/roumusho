@@ -1,5 +1,10 @@
-name: "Simple Reminder Action"
+name: "Roumusho"
 description: "Adds a reaction to reminder comments and saves them to a file."
+
+branding:
+  icon: "bell"
+  color: "yellow"
+
 inputs:
   GITHUB_TOKEN:
     description: "GitHub Token"
